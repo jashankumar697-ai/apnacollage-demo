@@ -1,3 +1,3 @@
 # apnacollage-demo
 this is my first git repository 
-author - shrada kapara
+author - shrada kapara jashan kumar
